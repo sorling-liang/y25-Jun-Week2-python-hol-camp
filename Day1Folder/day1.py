@@ -37,6 +37,8 @@ def greetings():
     print("hi")
     print("nice to meet you!")
 
+greetings()
+
 ########################################################################
 # Task 6:
 
