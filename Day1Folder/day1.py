@@ -8,7 +8,7 @@ print("hello my name is Ms Liang")
 wallet = 10000
 my_bank_account = 10000000
 print("your bank account has this amount:")
-print(my-bank-account)
+print(my_bank_account)
 
 ########################################################################
 # Task 2:
