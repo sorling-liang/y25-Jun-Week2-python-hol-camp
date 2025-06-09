@@ -26,7 +26,7 @@ x = 4
 y = 5
 print( x + y )
 
-name = "grandma"
+name = "dad"
 message = "go and eat your lunch!"
 print(name + " says: " + message)
 
