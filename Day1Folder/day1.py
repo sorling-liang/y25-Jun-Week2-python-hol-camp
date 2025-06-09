@@ -2,10 +2,6 @@
 # COMMENT out the previous task before going on to the next task
 print("hello my name is Ms Liang")
 
-
-
-
-
 ########################################################################
 # Task 1:
 
