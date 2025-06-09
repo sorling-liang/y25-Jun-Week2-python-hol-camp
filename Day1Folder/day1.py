@@ -28,7 +28,7 @@ print( x + y )
 
 name = "grandma"
 message = "go and eat your lunch!"
-print(name + " says " + message)
+print(name + " says: " + message)
 
 ########################################################################
 # Task 5:
