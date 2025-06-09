@@ -6,9 +6,9 @@ print("hello my name is Ms Liang")
 # Task 1:
 
 wallet = 10000
-mybankaccount = 10000000
+my_bank_account = 10000000
 print("your bank account has this amount:")
-print(mybankaccount)
+print(my_bank_account)
 
 ########################################################################
 # Task 2:
