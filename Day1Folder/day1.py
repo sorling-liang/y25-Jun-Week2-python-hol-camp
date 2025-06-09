@@ -34,6 +34,8 @@ print(name + " says: " + message)
 # Task 5:
 
 def greetings():
+    print("hello!")
+    print("nice to meet you!")
 
 ########################################################################
 # Task 6:
