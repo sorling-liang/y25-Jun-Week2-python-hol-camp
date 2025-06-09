@@ -49,7 +49,7 @@ greetings()
 def addition(num1, num2):
     print( num1 + num2 )
 
-addition(5000, 3)
+addition(246, 253)
 
 ########################################################################
 # Additional exercises:
