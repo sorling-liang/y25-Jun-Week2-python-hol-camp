@@ -50,6 +50,6 @@ def addition(num1, num2):
     print( num1 + num2 )
 
 addition(246, 289)
-
+addition(1, 5)
 ########################################################################
 # Additional exercises:
