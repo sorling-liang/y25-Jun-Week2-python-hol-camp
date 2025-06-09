@@ -5,9 +5,8 @@ print("hello my name is Ms Liang")
 ########################################################################
 # Task 1:
 
-# variable1 = 3
-# variable2 = 5
-# print( variable1 / variable2 )
+wallet = 10000
+mybankaccount = 10000000
 
 ########################################################################
 # Task 2:
