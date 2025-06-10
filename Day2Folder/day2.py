@@ -15,8 +15,9 @@ print("hello from day2")
 
 name = "ADAM"
 for letter in name:
+    print("Give me a ")
     print(letter)
-    
+
 ########################################################################
 # Task 3:
 
