@@ -13,7 +13,7 @@ print("hello from day2")
 # for apple in range(1, 51):
 #     print(apple)
 
-for letter in "i love sundays":
+for letter in "liverpool":
     print(letter)
 
 ########################################################################
