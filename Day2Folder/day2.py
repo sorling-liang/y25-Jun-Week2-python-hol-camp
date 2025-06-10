@@ -17,7 +17,7 @@ name = "ADAM"
 for letter in name:
     print("Give me a " + letter + "!")
 
-print
+print(name )
 ########################################################################
 # Task 3:
 
