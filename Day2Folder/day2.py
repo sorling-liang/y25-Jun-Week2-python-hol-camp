@@ -10,7 +10,7 @@ print("hello from day2")
 
 ########################################################################
 # Task 2:
-for apple in range(5):
+for apple in range(50):
     print(apple)
 
 
