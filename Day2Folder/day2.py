@@ -10,9 +10,11 @@ print("hello from day2")
 
 ########################################################################
 # Task 2:
-for apple in range(1, 51):
-    print(apple)
+# for apple in range(1, 51):
+#     print(apple)
 
+for letter in "i love sundays":
+    print(letter)
 
 ########################################################################
 # Task 3:
