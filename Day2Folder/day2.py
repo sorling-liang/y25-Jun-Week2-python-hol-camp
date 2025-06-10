@@ -5,12 +5,13 @@ print("hello from day2")
 ########################################################################
 # Task 1:
 
-for count in range(500):
-    print("I wont sling mud at my friends anymore")
+# for count in range(500):
+#     print("I wont sling mud at my friends anymore")
 
 ########################################################################
 # Task 2:
 for apple in range(5):
+    print(apple)
 
 
 ########################################################################
