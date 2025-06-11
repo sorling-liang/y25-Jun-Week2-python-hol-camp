@@ -29,7 +29,8 @@ print( name + " buys " + num_pens + " pens")
 
 num1 = input("give me 1st number: ")
 num2 = input("give me a second number: ")
-
+answer = num1 + num2
+print("the answer is " + answer)
 
 ########################################################################
 # Task 4:
