@@ -29,7 +29,7 @@ print("hello from day3")
 
 num1 = input("give me 1st number: ")
 num2 = input("give me a second number: ")
-answer = int(num1) + int(num2
+answer = int(num1) + int(num2)
 print("the answer is " + answer)
 
 ########################################################################
