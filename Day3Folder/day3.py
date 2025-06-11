@@ -12,10 +12,10 @@ print("hello from day3")
 # print("I am " + str(yourage) + " this year.") # convert number to string to print out a sentence
 
 
-yourname = input("what is your name?")
-yourtitle = input("what is your title?")
-yourcommand = input("what is your command?")
-print( yourtitle + yourname + yourcommand )
+# yourname = input("what is your name?")
+# yourtitle = input("what is your title?")
+# yourcommand = input("what is your command?")
+# print( yourtitle + yourname + yourcommand )
 
 ########################################################################
 # Task 2:
