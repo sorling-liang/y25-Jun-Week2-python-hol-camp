@@ -13,8 +13,8 @@ print("I am " + str(yourage) + " this year.") # convert number to string to prin
 
 
 yourname = input("what is your name?")
-yourname = input("what is your title?")
-yourname = input("what is your name?")
+yourtitle = input("what is your title?")
+yourcommand = input("what is your command?")
 
 ########################################################################
 # Task 2:
