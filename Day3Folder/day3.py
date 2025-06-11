@@ -22,7 +22,7 @@ print( yourtitle + yourname + yourcommand )
 
 name = "lionel"
 num_pens = "10"
-print( name + )
+print( name + " buys " + num_pens + " pens")
 
 ########################################################################
 # Task 3:
