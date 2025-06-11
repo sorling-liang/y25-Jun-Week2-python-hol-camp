@@ -9,7 +9,7 @@ yourname = input("what is your name?")
 print("Hello " + yourname)
 yourage = input("how old are you?")
 yourage = int(yourage) + 3
-print("I am " + str(yourage) + " this y")
+print("I am " + str(yourage) + " this year.")
 
 ########################################################################
 # Task 2:
