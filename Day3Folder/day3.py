@@ -11,6 +11,11 @@ yourage = input("how old are you?")
 yourage = int(yourage) + 3 # convert string to a number to do math operation
 print("I am " + str(yourage) + " this year.") # convert number to string to print out a sentence
 
+
+yourname = input("what is your name?")
+yourname = input("what is your title?")
+yourname = input("what is your name?")
+
 ########################################################################
 # Task 2:
 
