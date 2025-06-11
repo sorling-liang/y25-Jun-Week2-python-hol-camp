@@ -21,6 +21,8 @@ print( yourtitle + yourname + yourcommand )
 # Task 2:
 
 name = "lionel"
+num_pens = "10"
+print( name + )
 
 ########################################################################
 # Task 3:
