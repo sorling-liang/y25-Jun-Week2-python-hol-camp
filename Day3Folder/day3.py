@@ -21,7 +21,7 @@ print("hello from day3")
 # Task 2:
 
 name = "lionel"
-num_pens = "10"
+num_pens = input("how many pens would you like to buy?")
 print( name + " buys " + num_pens + " pens")
 
 ########################################################################
