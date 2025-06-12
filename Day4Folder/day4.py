@@ -3,21 +3,19 @@
 print("hello from day4")
 
 # recap
-import random 
+# import random 
 
-for count in range(10):
-    randomnumber = random.randint(1, 1000)
-    print(randomnumber)
+# for count in range(10):
+#     randomnumber = random.randint(1, 1000)
+#     print(randomnumber)
 
 ########################################################################
 # Task 1:
-
 
 counter = 0
 while counter < 5:
     print(counter)
     counter = counter + 1
-
 
 ########################################################################
 # Task 2:
