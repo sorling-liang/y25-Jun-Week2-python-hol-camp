@@ -22,7 +22,11 @@ while counter < 5:
 
 question = "what do you call a deer with no eyes?"
 hidden_answer = "no idea"
-if
+guess = input( question )
+while guess != hidden_answer:
+    print("wrong")
+
+
 
 ########################################################################
 # Additional exercises:
