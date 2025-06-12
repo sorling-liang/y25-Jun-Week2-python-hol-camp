@@ -5,8 +5,9 @@ print("hello from day4")
 # recap
 import random 
 
-randomnumber = random.randint(1, 1000)
-print(randomnumber)
+for count in range(10):
+    randomnumber = random.randint(1, 1000)
+    print(randomnumber)
 
 ########################################################################
 # Task 1:
