@@ -24,7 +24,8 @@ question = "what do you call a deer with no eyes?"
 hidden_answer = "no idea"
 guess = input( question )
 while guess != hidden_answer:
-    print("wrong")
+    print("wrong answer! try again...")
+    guess = input( question )
 
 
 
