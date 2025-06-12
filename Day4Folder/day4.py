@@ -6,6 +6,7 @@ print("hello from day4")
 import random 
 
 randomnumber = random.randint(1, 1000)
+print(randomnumber)
 
 ########################################################################
 # Task 1:
