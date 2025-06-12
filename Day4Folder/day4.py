@@ -21,6 +21,8 @@ while counter < 5:
 # Task 2:
 
 question = "what do you call a deer with no eyes?"
+hidden_answer = "no idea"
+if
 
 ########################################################################
 # Additional exercises:
