@@ -5,7 +5,7 @@ print("hello from day4")
 # recap
 import random 
 
-
+randomnumber = random.randint(1, 1000)
 
 ########################################################################
 # Task 1:
