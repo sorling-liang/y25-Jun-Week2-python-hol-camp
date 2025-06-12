@@ -20,7 +20,7 @@ while counter < 5:
 ########################################################################
 # Task 2:
 
-question = ""
+question = "what do you call a deer with no eyes?"
 
 ########################################################################
 # Additional exercises:
